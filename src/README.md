@@ -2,10 +2,10 @@
 home: true
 layout: BlogHome
 icon: home
-title: 前端
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+title: 萩萩萩🌴
+# heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 萩萩萩🌴
-heroFullScreen: true
+# heroFullScreen: true
 tagline: 即使慢，驰而不息，纵会落后，纵会失败，但必须能够到达他所向的目标。
 # projects:
 #   - icon: project
