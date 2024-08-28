@@ -10,8 +10,8 @@ export default hopeTheme({
 
     author: {
         name: '萩萩萩🌴',
-        // url: 'https://mister-hope.com',
-        url: 'https://www.sodaliy.top',
+        url: 'https://mister-hope.com',
+        // url: 'https://www.sodaliy.top',
     },
 
     iconAssets: 'fontawesome-with-brands',
