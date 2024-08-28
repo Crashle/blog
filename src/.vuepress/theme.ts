@@ -4,7 +4,7 @@ import navbar from './navbar.js';
 import sidebar from './sidebar.js';
 
 export default hopeTheme({
-    hostname: 'https://mister-hope.github.io',
+    hostname: 'https://crashle.github.io/blog/',
 
     // pure: true,
 
@@ -15,7 +15,7 @@ export default hopeTheme({
 
     iconAssets: 'fontawesome-with-brands',
 
-    logo: 'https://theme-hope-assets.vuejs.press/logo.svg',
+    logo: '/public/profile.jpg',
 
     repo: 'vuepress-theme-hope/vuepress-theme-hope',
 
@@ -46,8 +46,8 @@ export default hopeTheme({
             // Evernote: 'https://example.com',
             // Facebook: 'https://example.com',
             // Flipboard: 'https://example.com',
-            Gitee: 'https://example.com',
-            GitHub: 'https://example.com',
+            // Gitee: 'https://example.com',
+            GitHub: 'https://github.com/Crashle',
             // Gitlab: 'https://example.com',
             // Gmail: 'mailto:info@example.com',
             // Instagram: 'https://example.com',
