@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://www.sodaliy.top/blog/sitemap.xml
+Sitemap: https://crashle.github.io/blog/blog/sitemap.xml
