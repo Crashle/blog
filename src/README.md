@@ -5,7 +5,7 @@ icon: home
 title: 萩萩萩🌴
 # heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 萩萩萩🌴
-# heroFullScreen: true
+heroFullScreen: true
 tagline: 即使慢，驰而不息，纵会落后，纵会失败，但必须能够到达他所向的目标。
 # projects:
 #   - icon: project
@@ -38,7 +38,8 @@ tagline: 即使慢，驰而不息，纵会落后，纵会失败，但必须能�
 #     desc: 自定义详细介绍
 #     link: https://你的自定义链接
 
-footer: 本网站所有数据及文档均受《著作权法》及相关法律法规保护，任何组织及个人不得侵权，违者本公司将依法追究侵权责任，特此声明。
+# footer: 本网站所有数据及文档均受《著作权法》及相关法律法规保护，任何组织及个人不得侵权，违者本公司将依法追究侵权责任，特此声明。
+footer: false
 ---
 
 <!-- 这是一个博客主页的案例。

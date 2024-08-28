@@ -1,21 +1,35 @@
 import { navbar } from 'vuepress-theme-hope';
 
 export default navbar([
-    '/',
-    '/demo/',
-    // '/blogs/',
+    // '/',
+    // '/demo/',
     {
-        text: '前端',
-        prefix: 'blogs/',
-        children: [
-            { text: 'javascript', link: 'javascript/' },
-            { text: 'css', link: 'css/' },
-        ],
+        text: 'JavasSript',
+        link: '/js/',
+    },
+    {
+        text: 'CSS',
+        link: '/css/',
+    },
+    {
+        text: 'Vue',
+        link: '/vue/',
+    },
+    {
+        text: 'UniApp',
+        link: '/uniapp/',
+    },
+    {
+        text: 'NodeJs',
+        link: '/nodeJs/',
+    },
+    {
+        text: '每日一题LeetCode',
+        link: '/leetcode/',
     },
     {
         text: '面试',
-        prefix: 'blogs/',
-        children: [{ text: '博文', icon: 'code', link: '' }],
+        link: '/interview/',
     },
     // {
     //     text: '博文',

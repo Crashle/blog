@@ -6,19 +6,24 @@ import sidebar from './sidebar.js';
 export default hopeTheme({
     hostname: 'https://crashle.github.io/blog/',
 
+    // navbarLayout: {
+    //     end: ['Language', 'Repo', 'Outlook', 'Search'],
+    // },
+
     // pure: true,
 
     author: {
         name: '萩萩萩🌴',
-        url: 'https://mister-hope.com',
-        // url: 'https://www.sodaliy.top',
+        // url: 'https://mister-hope.com',
+        url: 'https://www.sodaliy.top',
     },
 
     iconAssets: 'fontawesome-with-brands',
 
     logo: '/assets/images/profile.jpg',
 
-    repo: 'vuepress-theme-hope/vuepress-theme-hope',
+    repo: 'https://github.com/Crashle',
+    // repoDisplay: true,
 
     docsDir: 'src',
 
@@ -93,6 +98,8 @@ export default hopeTheme({
     // 在这里配置主题提供的插件
     plugins: {
         blog: true,
+        searchPro: true,
+        // search: true,
 
         // 启用之前需安装 @waline/client
         // 警告: 这是一个仅供演示的测试服务，在生产环境中请自行部署并使用自己的服务！
