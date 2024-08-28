@@ -4,7 +4,7 @@ import navbar from './navbar.js';
 import sidebar from './sidebar.js';
 
 export default hopeTheme({
-    hostname: 'https://crashle.github.io/blog/',
+    hostname: 'https://www.sodaliy.top/',
 
     // pure: true,
 
