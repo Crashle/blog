@@ -4,13 +4,14 @@ import navbar from './navbar.js';
 import sidebar from './sidebar.js';
 
 export default hopeTheme({
-    hostname: 'https://www.sodaliy.top/',
+    hostname: 'https://www.sodaliy.top',
 
     // pure: true,
 
     author: {
         name: '萩萩萩🌴',
-        url: 'https://mister-hope.com',
+        // url: 'https://mister-hope.com',
+        url: 'https://www.sodaliy.top',
     },
 
     iconAssets: 'fontawesome-with-brands',
