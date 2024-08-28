@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress';
 import theme from './theme.js';
 
 export default defineUserConfig({
-    base: '/crashle.github.io/blog/',
+    base: '/blog/',
 
     lang: 'zh-CN',
     title: '萩萩萩🌴的小站',
