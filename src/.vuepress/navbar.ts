@@ -4,10 +4,6 @@ export default navbar([
     // '/',
     // '/demo/',
     {
-        text: 'VuePress',
-        link: '/blogger/',
-    },
-    {
         text: 'JavasSript',
         link: '/js/',
     },
@@ -34,6 +30,10 @@ export default navbar([
     {
         text: '面试',
         link: '/interview/',
+    },
+    {
+        text: 'VuePress',
+        link: '/blogger/',
     },
     // {
     //     text: '博文',
