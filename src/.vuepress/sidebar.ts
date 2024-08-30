@@ -8,26 +8,7 @@ export default sidebar({
         //     prefix: 'blogs/JS/',
         //     link: 'blogs/JS/',
         //     children: 'structure',
-        // },
-        // {
-        //     text: 'CSS',
-        //     prefix: 'blogs/css/',
-        //     link: 'blogs/css/',
-        //     children: 'structure',
-        // },
-        // {
-        //     text: '如何使用',
-        //     icon: 'laptop-code',
-        //     prefix: 'demo/',
-        //     link: 'demo/',
-        //     children: 'structure',
-        // },
-        // {
-        //     text: '文章',
-        //     icon: 'book',
-        //     prefix: 'posts/',
-        //     children: 'structure',
-        // },
+        // }
         // 'intro',
         // {
         //     text: '幻灯片',

@@ -1,4 +1,5 @@
 import { hopeTheme } from 'vuepress-theme-hope';
+import { gitPlugin } from '@vuepress/plugin-git';
 
 import navbar from './navbar.js';
 import sidebar from './sidebar.js';

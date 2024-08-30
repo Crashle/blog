@@ -1,10 +1,15 @@
 ---
 title: '第一个手写博客'
 date: 2024-08-26
+article: true
+category:
+ - JavaScript
+tags:
+ - vuepress
 ---
 
 # 首个博客
- - 这是我的第一个博客，希望以后可以坚持写博客
+ - 这是我的第一个博客，希望以后可以坚持写博客！！
  - 感谢[VuePress](https://v2.vuepress.vuejs.org/zh/)
 
 <!-- more -->

@@ -4,6 +4,10 @@ export default navbar([
     // '/',
     // '/demo/',
     {
+        text: 'VuePress',
+        link: '/blogger/',
+    },
+    {
         text: 'JavasSript',
         link: '/js/',
     },
