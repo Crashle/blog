@@ -5,10 +5,10 @@ export default sidebar({
         '',
         // {
         //     text: 'JavaScript',
-        //     prefix: 'blogs/JS/',
-        //     link: 'blogs/JS/',
+        //     prefix: 'blog/js/',
+        //     link: '/blog/js/',
         //     children: 'structure',
-        // }
+        // },
         // 'intro',
         // {
         //     text: '幻灯片',
@@ -20,5 +20,6 @@ export default sidebar({
     '/css': 'structure',
     '/vue': 'structure',
     '/nodeJs': 'structure',
+    '/blogger': 'structure',
     // '/UniApp': 'structure',
 });

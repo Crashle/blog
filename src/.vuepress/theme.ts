@@ -1,5 +1,4 @@
 import { hopeTheme } from 'vuepress-theme-hope';
-import { gitPlugin } from '@vuepress/plugin-git';
 
 import navbar from './navbar.js';
 import sidebar from './sidebar.js';
@@ -100,6 +99,7 @@ export default hopeTheme({
     plugins: {
         blog: true,
         searchPro: true,
+        copyright: true, //版权信息
         // search: true,
 
         // 启用之前需安装 @waline/client
