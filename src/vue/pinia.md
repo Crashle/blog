@@ -1,5 +1,7 @@
 ---
 title: Pinia
+category:
+  - Vue
 ---
 
 
